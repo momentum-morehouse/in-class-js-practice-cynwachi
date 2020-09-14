@@ -5,6 +5,9 @@
 // reassign your variable the value "peach"
 // console log your variable
 
+const fruit = "banana";
+
+
 // Problem 2
 // write a function called product that accepts two numbers and 
 // logs the product in the console and then
